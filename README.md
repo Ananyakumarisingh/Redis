@@ -1,0 +1,2 @@
+# Redis
+Just for learning
